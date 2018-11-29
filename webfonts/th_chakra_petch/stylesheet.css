@@ -1,0 +1,8 @@
+@font-face {
+	font-family: 'th chakra petch';
+	src: url('th_chakra_petch-webfont.eot');
+	src: url('th_chakra_petch-webfont.eot?#iefix') format('embedded-opentype'),
+		url('th_chakra_petch-webfont.woff') format('woff'),
+		url('th_chakra_petch-webfont.ttf') format('truetype'),
+		url('th_chakra_petch-webfont.svg') format('svg');
+}
